@@ -3,7 +3,7 @@ const livros = [
     id: 1,
     nome: 'Introdução à Programação com Python',
     autor: 'Nilo Ney Coutinho Menezes',
-    categoria: 'Programação',
+    categoria: 'Programacao',
     paginas: 328,
     recomenda: false,
     leu: false
@@ -30,7 +30,7 @@ const livros = [
     id: 4,
     nome: 'R para data science',
     autor: 'Hadley Wickham',
-    categoria: 'Programação',
+    categoria: 'Programacao',
     paginas: 528,
     recomenda: true,
     leu: false
@@ -39,7 +39,7 @@ const livros = [
     id: 5,
     nome: 'Construindo Aplicações web com PHP e MySQL',
     autor: 'André Milani',
-    categoria: 'Programação',
+    categoria: 'Programacao',
     paginas: 336,
     recomenda: true,
     leu: true
@@ -57,7 +57,7 @@ const livros = [
     id: 7,
     nome: 'JavaScript - Guia do Programador',
     autor: 'Maurício Samy Silva ',
-    categoria: 'Programação',
+    categoria: 'Programacao',
     paginas: 608,
     recomenda: true,
     leu: false
@@ -66,7 +66,7 @@ const livros = [
     id: 8,
     nome: 'Javascript e Jquery: desenvolvimento de interfaces',
     autor: 'Jon Duckett',
-    categoria: 'Programação',
+    categoria: 'Programacao',
     paginas: 640,
     recomenda: false,
     leu: false
